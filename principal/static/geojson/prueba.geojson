@@ -1,0 +1,260 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.65020921262273, -33.416825722647815]
+        },
+        "properties": {
+          "name": "Cementerio general",
+          "additionalInfo": "El Cementerio General es un museo al aire libre, con un valor patrimonial y cultural incalculable, construido desde hace 198 años.",
+          "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Cementerio_General_fachada.jpg",
+          "address": "Profesor Alberto Zañartu 951 Lafayette 1705, Av. Recoleta 1490, 8431579 Recoleta, Región Metropolitana",
+          "detailsPageURL": "https://cementeriogeneral.cl/",
+          "liveURL": "https://www.google.cl/maps/@-33.4178824,-70.6501237,3a,75y,188.74h,86.94t/data=!3m7!1e1!3m5!1sa4-j2-OsRT42iB7xz70zRQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Da4-j2-OsRT42iB7xz70zRQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D120.30107%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.63475968922599, -33.429863530783415]
+        },
+        "properties": {
+          "name": "La chascona",
+          "additionalInfo": "La Chascona es una de las tres viviendas que fueron propiedad del poeta chileno Pablo Neruda. Se encuentra ubicada en el Barrio Bellavista de la comuna de Providencia en Santiago de Chile. Actualmente, es un museo que alberga las colecciones del autor y es la sede de la Fundación Pablo Neruda. Fue declarada Monumento Nacional en 1990.",
+          "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Casa_de_Pablo_Neruda_La_Chascona_03.JPG/420px-Casa_de_Pablo_Neruda_La_Chascona_03.JPG",
+          "address": "Fernando Márquez de La Plata 0192, 7520284 Santiago, Providencia, Región Metropolitana",
+          "detailsPageURL": "https://www.registromuseoschile.cl/663/w3-article-50768.html",
+          "liveURL": "https://www.google.com/maps/@-33.4311391,-70.6343611,3a,75y,198.53h,99.3t/data=!3m8!1e1!3m6!1sAF1QipM-FeIxqc98DRwwp8APcn0sVi8PazwuttQSrPYL!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM-FeIxqc98DRwwp8APcn0sVi8PazwuttQSrPYL%3Dw203-h100-k-no-pi-0-ya328.51706-ro0-fo100!7i8704!8i4352?entry=ttu"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.64454438737725, -33.4338747701239]
+        },
+        "properties": {
+          "name": "Museo de arte contemporaneo",
+          "additionalInfo": "El Museo de Arte Contemporáneo (MAC) es una institución que depende de la Facultad de Artes de la Universidad de Chile. Está ubicado en la ciudad de Santiago y cuenta con dos sedes patrimoniales: MAC Parque Forestal, ubicado junto al edificio del Museo Nacional de Bellas Artes; y MAC Quinta Normal, en el edificio llamado Palacio Versailles.",
+          "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/91/Museo_de_Arte_Contempor%C3%A1neo%2C_Santiago_20230305_01.jpg",
+          "address": "Ismael Valdés Vergara 506, 8420488 Santiago, Región Metropolitana",
+          "detailsPageURL": "https://mac.uchile.cl/",
+          "liveURL": "https://www.google.cl/maps/@-33.4350616,-70.6446507,3a,75y,102.72h,31.71t/data=!3m8!1e1!3m6!1sAF1QipPfnmRbu1onAwOKe92mM_dj_ELqfOppLLWfHvGn!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPfnmRbu1onAwOKe92mM_dj_ELqfOppLLWfHvGn%3Dw203-h100-k-no-pi-0-ya275.65817-ro0-fo100!7i4096!8i2048?entry=ttu "
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.64763429205661, -33.4398196588258]
+        },
+        "properties": {
+          "name": "Teatro municipal de santiago",
+          "additionalInfo": " Ópera Nacional de Chile es el principal teatro y centro cultural del país. Ubicado en el centro de Santiago de Chile, ha sido fundamental en el desarrollo cultural de Chile destacando sus funciones de ópera, ballet, conciertos sinfónicos, zarzuela, música de cámara y teatro.",
+          "imageURL": "https://www.operaactual.com/wp-content/uploads/2022/09/teatro-municipal-santiago-de-chile.jpg",
+          "address": "Agustinas 794, 8320229 Santiago, Región Metropolitana",
+          "detailsPageURL": "https://municipal.cl/",
+          "liveURL": "https://www.google.com/maps/uv?pb=!1s0x9662c5a184593931%3A0xdc5778c316803dde!3m1!7e115!4s%2Fmaps%2Fplace%2FTeatro%2Bmunicipal%2Bde%2Bsantiago%2F%40-33.4405035%2C-70.6475167%2C3a%2C75y%2C189.46h%2C90t%2Fdata%3D*213m4*211e1*213m2*211swbihU-T2ZhhobQKMZoPBrQ*212e0*214m2*213m1*211s0x9662c5a184593931%3A0xdc5778c316803dde%3Fsa%3DX%26ved%3D2ahUKEwjY1JXM0tiCAxXQlZUCHV9xDT4Qpx96BAhMEAA!5sTeatro%20municipal%20de%20santiago%20-%20Buscar%20con%20Google!15sCgIgAQ&imagekey=!1e2!2swbihU-T2ZhhobQKMZoPBrQ&hl=es&sa=X&sqi=2&ved=2ahUKEwjY1JXM0tiCAxXQlZUCHV9xDT4Qpx96BAhvEA0 "
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.65141084222026, -33.43244220592765]
+        },
+        "properties": {
+          "name": "Mercado central de santiago",
+          "additionalInfo": "El Mercado Central de Santiago o simplemente Mercado Central es un mercado destinado a la venta de alimentos, principalmente pescados y mariscos, ubicado en la capital chilena.",
+          "imageURL": "https://www.santiagoturismo.cl/wp-content/uploads/2021/03/mercado-central-940x240.jpg",
+          "address": "San Pablo, Santiago, Región Metropolitana",
+          "detailsPageURL": "https://www.santiagoturismo.cl/mercado-central-de-santiago/",
+          "liveURL": "https://www.google.com/maps/uv?pb=!1s0x9662c5bca6d08be9%3A0xf854bb863ef0b779!3m1!7e115!4s%2Fmaps%2Fplace%2Fmercado%2Bcentral%2Bde%2Bsantiago%2F%40-33.4332074%2C-70.6509797%2C3a%2C75y%2C205.13h%2C90t%2Fdata%3D*213m4*211e1*213m2*211s8byTDdaphK1wM6zi3VxJuw*212e0*214m2*213m1*211s0x9662c5bca6d08be9%3A0xf854bb863ef0b779%3Fsa%3DX%26ved%3D2ahUKEwj0pojm1diCAxX7q5UCHZ9LADsQpx96BAhYEAA%26hl%3Des!5smercado%20central%20de%20santiago%20-%20Buscar%20con%20Google!15sCgIgAQ&imagekey=!1e2!2s8byTDdaphK1wM6zi3VxJuw&hl=es&sa=X&ved=2ahUKEwj0pojm1diCAxX7q5UCHZ9LADsQpx96BAh7EA0"
+
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6398236996727, -33.438458816635844]
+        },
+        "properties": {
+          "name": "Centro gabriela mistral",
+          "additionalInfo": "El Centro Cultural Gabriela Mistral, Centro GAM o simplemente GAM, ​ es un complejo ubicado en Santiago de Chile",
+          "imageURL": "https://images.adsttc.com/media/images/5706/71e4/e58e/ce99/fc00/0128/newsletter/GAM_01_Nicola%CC%81s_Saieh.jpg?1460040150",
+          "address": "Av Alameda Libertador Bernardo O'Higgins 227, 8320275 Santiago, Región Metropolitana",
+          "detailsPageURL": "https://gam.cl/",
+          "liveURL": "https://www.google.com/maps/uv?pb=!1s0x9662c59b6ee5a887%3A0x43a746bfa98d9592!3m1!7e115!4s%2Fmaps%2Fplace%2FCentro%2Bgabriela%2Bmistral%2F%40-33.4391475%2C-70.6399279%2C3a%2C75y%2C359.89h%2C90t%2Fdata%3D*213m4*211e1*213m2*211sZzGtBpXZg2rRx6MVBxMgXA*212e0*214m2*213m1*211s0x9662c59b6ee5a887%3A0x43a746bfa98d9592%3Fsa%3DX%26ved%3D2ahUKEwi3l_nr1tiCAxXWlJUCHfTpBxYQpx96BAheEAA%26hl%3Des!5sCentro%20gabriela%20mistral%20-%20Buscar%20con%20Google!15sCgIgAQ&imagekey=!1e2!2sZzGtBpXZg2rRx6MVBxMgXA&hl=es&sa=X&ved=2ahUKEwi3l_nr1tiCAxXWlJUCHfTpBxYQpx96BQiHARAN"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.67930581501993, -33.43838719277145]
+        },
+        "properties": {
+          "name": "Museo de la memoria y los derechos humanos",
+          "additionalInfo": "El Museo de la Memoria y los Derechos Humanos es un museo público chileno, ubicado en la comuna de Santiago, Santiago de Chile, dedicado a conmemorar a las víctimas de violaciones a los Derechos Humanos durante la dictadura militar de Augusto Pinochet.",
+          "imageURL": "https://media.licdn.com/dms/image/C4D1BAQFjtXFGfinSbw/company-background_10000/0/1622135188161/museo_de_la_memoria_y_los_derechos_humanos_cover?e=2147483647&v=beta&t=t860BeN8zZu6vIVSaPEMJiML8ZjcSEQLKuyfD21P0eI",
+          "address": "Av. Matucana 501, 8500000 Santiago, Región Metropolitana",
+          "detailsPageURL": "https://mmdh.cl/",
+          "liveURL": "https://www.google.com/maps/uv?pb=!1s0x9662c44fdf6713bf%3A0x5501fecf7aef1121!3m1!7e115!4s%2Fmaps%2Fplace%2FMuseo%2Bde%2Bla%2Bmemoria%2By%2Blos%2Bderechos%2Bhumanos%2F%40-33.4398948%2C-70.679925%2C3a%2C75y%2C70.56h%2C90t%2Fdata%3D*213m4*211e1*213m2*211sgKN_sTtK5gzoQ7h8wyxxhQ*212e0*214m2*213m1*211s0x9662c44fdf6713bf%3A0x5501fecf7aef1121%3Fsa%3DX%26ved%3D2ahUKEwiQ493o19iCAxWhQ7gEHT5BDqMQpx96BAhaEAA!5sMuseo%20de%20la%20memoria%20y%20los%20derechos%20humanos%20-%20Buscar%20con%20Google!15sCgIgAQ&imagekey=!1e2!2sgKN_sTtK5gzoQ7h8wyxxhQ&hl=es&sa=X&sqi=2&ved=2ahUKEwiQ493o19iCAxWhQ7gEHT5BDqMQpx96BAh9EA0"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6435144191508, -33.434232907478005]
+        },
+        "properties": {
+          "name": "Museo nacional de bellas artes",
+          "additionalInfo": "El Museo Nacional de Bellas Artes es uno de los principales centros de difusión de las artes visuales en Chile. Fundado el 18 de septiembre de 1880 bajo el nombre de Museo Nacional de Pinturas, es el primer museo de arte en Latinoamérica.",
+          "imageURL": "https://ohstgo.cl/wp-content/uploads/2023/07/SANTIAGO_MNBA_AUTOR-Marcos-Mendizabal_1-1035x690-1-1035x687.jpg",
+          "address": "José Miguel de la Barra 650, 8320356 Santiago, Región Metropolitana",
+          "detailsPageURL": "https://www.mnba.gob.cl/",
+          "liveURL": "https://www.google.com/maps/uv?pb=!1s0x9662c598506488df%3A0xc4261233e54747ba!3m1!7e115!4s%2Fmaps%2Fplace%2FMuseo%2Bnacional%2Bde%2Bbellas%2Bartes%2F%40-33.435347%2C-70.6430135%2C3a%2C75y%2C275.46h%2C90t%2Fdata%3D*213m4*211e1*213m2*211sMR_PvqbHrpBi3BSVWtBznA*212e0*214m2*213m1*211s0x9662c598506488df%3A0xc4261233e54747ba%3Fsa%3DX%26ved%3D2ahUKEwipreDi2NiCAxWXkZUCHa6kBGwQpx96BAhaEAA!5sMuseo%20nacional%20de%20bellas%20artes%20-%20Buscar%20con%20Google!15sCgIgAQ&imagekey=!1e2!2sMR_PvqbHrpBi3BSVWtBznA&hl=es&sa=X&sqi=2&ved=2ahUKEwipreDi2NiCAxWXkZUCHa6kBGwQpx96BAh8EA0"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.63630464156566, -33.43093798807113]
+        },
+        "properties": {
+          "name": "Barrio bellavista",
+          "additionalInfo": "Vecindario moderno y animado lleno de restaurantes, bares, discotecas, recintos de música y arte callejero.",
+          "imageURL": "https://conociendochile.cl/wp-content/uploads/2020/03/Captura-de-Pantalla-2019-10-18-a-las-12.46.11.jpg",
+          "address": "Antonia López de Bello 14, Recoleta, Providencia, Región Metropolitana",
+          "detailsPageURL": "https://patiobellavista.cl/barrio-bellavista/",
+          "liveURL": "https://www.google.com/maps/uv?pb=!1s0x9662c5907cd19717%3A0x2414c9d16794d3fc!3m1!7e115!4s%2Fmaps%2Fplace%2Fbarrio%2Bbellavista%2Bsantiago%2F%40-33.4321508%2C-70.6362424%2C3a%2C75y%2C239.72h%2C90t%2Fdata%3D*213m4*211e1*213m2*211sM1ORr54QG49CdEMUBXsP3w*212e0*214m2*213m1*211s0x9662c5907cd19717%3A0x2414c9d16794d3fc%3Fsa%3DX%26ved%3D2ahUKEwj8wcvI2diCAxVGrJUCHZ6TAjUQpx96BAhNEAA!5sbarrio%20bellavista%20santiago%20-%20Buscar%20con%20Google!15sCgIgAQ&imagekey=!1e2!2sM1ORr54QG49CdEMUBXsP3w&hl=es&sa=X&ved=2ahUKEwj8wcvI2diCAxVGrJUCHZ6TAjUQpx96BAhiEA0"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.63166978454665, -33.418903306725916]
+        },
+        "properties": {
+          "name": "Cerro san cristobal",
+          "additionalInfo": "El cerro San Cristóbal es un cerro ubicado en Santiago, la capital de Chile. Con una altitud de 880 m s. n. m. y una prominencia de 280 m, es el cuarto punto más alto de la ciudad, superado por el cerro Manquehue, el cerro Lo Aguirre​ y el cerro Renca",
+          "imageURL": "https://fadeu.uc.cl/images/noticias/2021/Julio/web_5bb64736292ef885846458-425x350.jpg",
+          "detailsPageURL": "https://parquemet.cl/lugares/acceso-pedro-de-valdivia-norte/",
+          "liveURL": "https://www.google.com/maps/@-33.4258423,-70.6335068,3a,75y,346.32h,84.46t/data=!3m8!1e1!3m6!1sAF1QipP_mwRcoMzpYStExu0gWKVnvv8Yjzw-CrsyS0G-!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP_mwRcoMzpYStExu0gWKVnvv8Yjzw-CrsyS0G-%3Dw203-h100-k-no-pi-0-ya0-ro-0-fo100!7i8192!8i4096?entry=ttu"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.64368608052189, -33.43903180542255]
+        },
+        "properties": {
+          "name": "Cerro santa lucia",
+          "additionalInfo": "El cerro Santa Lucía, antiguamente llamado cerro Huelén en picunche, ​ es un parque urbano ubicado en el corazón de la ciudad de Santiago de Chile.",
+          "imageURL": "https://finde.latercera.com/wp-content/uploads/2020/08/Cerro-Santa-Luci%CC%81a-28-700x450.jpg",
+          "detailsPageURL": "https://www.monumentos.gob.cl/monumentos/monumentos-historicos/cerro-santa-lucia-santiago",
+          "liveURL": "https://www.google.com/maps/@-33.4408078,-70.6443767,3a,75y,99.94h,90t/data=!3m8!1e1!3m6!1sAF1QipM9UeJzU6Y4qgTKv9PP9Sl1vom6gnPkRdxOcGqu!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM9UeJzU6Y4qgTKv9PP9Sl1vom6gnPkRdxOcGqu%3Dw203-h100-k-no-pi-0-ya101.85529-ro-0-fo100!7i5660!8i2830?entry=ttu"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.64136865201237, -33.43695470306764]
+        },
+        "properties": {
+          "name": "Lastarria",
+          "additionalInfo": "El bohemio barrio de Lastarria se destaca por la colina del cerro Santa Lucía, con el Castillo Hidalgo del siglo XIX, los senderos de excursión y la vista panorámica de la ciudad. Las calles arboladas del área están llenas de hoteles boutique, bares de moda que sirven vinos regionales y cócteles artesanales, y restaurantes modernos que ofrecen comida fusión y platos innovadores de la cocina chilena. Los vendedores callejeros venden artesanías locales y recuerdos.",
+          "imageURL": "https://i0.wp.com/laderasur.com/wp-content/uploads/2017/06/vista-barrio-3.jpg?ssl=1",
+          "address": "José Victorino Lastarria, Santiago 8320165 Chile",
+          "detailsPageURL": "https://disfrutasantiago.cl/barrio-lastarria/",
+          "liveURL": "https://www.google.com/maps/@-33.4379149,-70.6410896,3a,61.5y,44.6h,95.87t/data=!3m7!1e1!3m5!1s-J6PYeGfF1IfEQ803kWr2A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D-J6PYeGfF1IfEQ803kWr2A%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D62.10433%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.65261247181779, -33.43824394486527]
+        },
+        "properties": {
+          "name": "Museo arte precolombino",
+          "additionalInfo": "El Museo Chileno de Arte Precolombino, conocido también como Museo Precolombino, es una institución cultural creada por la Municipalidad de Santiago y la Fundación Familia Larraín Echeñique.",
+          "imageURL": "https://d2dzi65yjecjnt.cloudfront.net/46617-2.jpg",
+          "address": "Bandera 361, 8320298 Santiago, Región Metropolitana",
+          "detailsPageURL": "https://museo.precolombino.cl/",
+          "liveURL": "https://www.google.com/maps/uv?pb=!1s0x9662c5a46c29c7e7%3A0x441c0411745f7ac3!3m1!7e115!4s%2Fmaps%2Fplace%2FMuseo%2Barte%2Bprecolombino%2F%40-33.4388349%2C-70.6524476%2C3a%2C75y%2C83.15h%2C90t%2Fdata%3D*213m4*211e1*213m2*211s2Jo9LHZZODZzaHqXytfpDA*212e0*214m2*213m1*211s0x9662c5a46c29c7e7%3A0x441c0411745f7ac3%3Fsa%3DX%26ved%3D2ahUKEwiZxsrl3diCAxXajpUCHTLCCuUQpx96BAheEAA!5sMuseo%20arte%20precolombino%20-%20Buscar%20con%20Google!15sCgIgAQ&imagekey=!1e2!2s2Jo9LHZZODZzaHqXytfpDA&hl=es&sa=X&sqi=2&ved=2ahUKEwiZxsrl3diCAxXajpUCHTLCCuUQpx96BQiHARAN"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.65192582633348, -33.436668202288985]
+        },
+        "properties": {
+          "name": "Catedral de santiago",
+          "additionalInfo": "La Catedral Metropolitana de Santiago es la sede de la Arquidiócesis de Santiago de Chile y principal templo de la Iglesia católica en ese país. Como Iglesia Catedral es la sede permanente del arzobispo de Santiago y está dedicada a la Asunción de la Virgen María.",
+          "imageURL": "https://www.monumentos.gob.cl/sites/default/files/styles/slide_monumentos/public/image-monumentos/mh_00028_2017_av_001.jpg?itok=cJ11j3Er",
+          "address": "Pl. de Armas 498, 8320341 Santiago, Región Metropolitana",
+          "detailsPageURL": "https://www.monumentos.gob.cl/monumentos/monumentos-historicos/catedral-santiago",
+          "liveURL": "https://www.google.com/maps/uv?pb=!1s0x9662c5a39ef5a955%3A0xa63c782182f447e6!3m1!7e115!4s%2Fmaps%2Fplace%2FCatedral%2Bde%2Bsantiago%2F%40-33.4373664%2C-70.6514306%2C3a%2C75y%2C171.82h%2C90t%2Fdata%3D*213m4*211e1*213m2*211sM0kf-5Wa5kix2IWqpDLiyg*212e0*214m2*213m1*211s0x9662c5a39ef5a955%3A0xa63c782182f447e6%3Fsa%3DX%26ved%3D2ahUKEwjNhva23tiCAxWujJUCHUx9BC0Qpx96BAhbEAA!5sCatedral%20de%20santiago%20-%20Buscar%20con%20Google!15sCgIgAQ&imagekey=!1e2!2sM0kf-5Wa5kix2IWqpDLiyg&hl=es&sa=X&ved=2ahUKEwjNhva23tiCAxWujJUCHUx9BC0Qpx96BAh1EA0"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.65398577114605, -33.44189328724248]
+        },
+        "properties": {
+          "name": "Palacio de la moneda",
+          "additionalInfo": "El Palacio de La Moneda, comúnmente conocido como La Moneda, es la sede del presidente de la República de Chile ubicado en la ciudad capital de Santiago. También alberga la Secretaría General de la Presidencia y a la Secretaría General de Gobierno.",
+          "imageURL": "https://www.monumentos.gob.cl/sites/default/files/styles/slide_monumentos/public/image-monumentos/mh_00027_2017_av_007.jpg?itok=TNRpIvbp",
+          "address": "Moneda S/N, Santiago, Región Metropolitana",
+          "detailsPageURL": "https://www.monumentos.gob.cl/monumentos/monumentos-historicos/palacio-moneda-antigua-real-casa-moneda",
+          "liveURL": "https://www.google.com/maps/@-33.4429258,-70.6538433,3a,75y,68.84h,90t/data=!3m7!1e1!3m5!1sAqtXzzwPfDYFspOibVnZNQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DAqtXzzwPfDYFspOibVnZNQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D65.10906%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.65029505166794, -33.43709454756011]
+        },
+        "properties": {
+          "name": "Plaza de armas",
+          "additionalInfo": "La Plaza de Armas de Santiago​ se ubica en la comuna de Santiago y es el núcleo del centro histórico de la capital de Chile.",
+          "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Plaza_de_Armas.JPG",
+          "address": "Pl. de Armas, 8320341 Santiago, Región Metropolitana",
+          "detailsPageURL": "https://www.monumentos.gob.cl/monumentos/zonas-tipicas/plaza-armas-congreso-nacional-su-entorno",
+          "liveURL": "https://www.google.com/maps/uv?pb=!1s0x9662c5a390957307%3A0xef87ffe6bed7c7!3m1!7e115!4s%2Fmaps%2Fplace%2Fplaza%2Bde%2Barmas%2Bsantiago%2F%40-33.4372582%2C-70.6504541%2C3a%2C75y%2C184.03h%2C90t%2Fdata%3D*213m4*211e1*213m2*211sDbv8wLOvFEOYXkEtSMh3yw*212e0*214m2*213m1*211s0x9662c5a390957307%3A0xef87ffe6bed7c7%3Fsa%3DX%26ved%3D2ahUKEwi-gIPr4NiCAxWCqZUCHRlrAMkQpx96BAhaEAA!5splaza%20de%20armas%20santiago%20-%20Buscar%20con%20Google!15sCgIgAQ&imagekey=!1e2!2sDbv8wLOvFEOYXkEtSMh3yw&hl=es&sa=X&ved=2ahUKEwi-gIPr4NiCAxWCqZUCHRlrAMkQpx96BAhvEA0"
+
+        }
+      }
+    ]
+  }
+  

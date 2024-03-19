@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+{%load static%}
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bienvenido!</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'styles.css' %}">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</head>
+<body>
+    
+    
+    <nav class="navbar navbar-expand-lg bg-body-tertiary" >
+        <div class="container-fluid" >
+          <a class="navbar-brand" href="#">PATRIMONIOS</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="{% url 'index' %}">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="{% url 'prueba' %}">Mapa</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    
+      <div id="carouselExampleCaptions" class="carousel slide">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="{% static './bibliotecanacional.jpg'%}" class="d-block w-100" alt="Museo General" height="700px">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Biblioteca Nacional</h5>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="{% static './Museo_de_la_Memoria.jpg'%}" class="d-block w-100" alt="Museo de la Memoria" height="700px">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Museo de la Memoria</h5>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="{% static './museoBellasArtes.jpg'%}" class="d-block w-100" alt="Museo Bellas Artes" height="700px">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Museo Bellas Artes</h5>
+            </div>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+      
+
+
+
+
+      <section class="container py-5">
+        <div class="row">
+          <div class="col-12">
+            <h2>Nuestros patrimonios</h2>
+            <p>Conoce los distintos patrimonios culturales de la región metropolitana de Chile.</p>
+          </div>
+        </div>
+      
+        <div class="row">
+          <div class="col-6 col-md-4">
+            <div class="card mb-4">
+              <img src="{% static './cementerioGeneral.jpg'%}" class="card-img-top" alt="Cementerio General">
+              <div class="card-body">
+                <h5 class="card-title">Cementerio General</h5>
+                <p class="card-text">Uno de los cementerios más grandes de América Latina, donde descansan los restos de importantes personajes de la historia chilena.</p>
+                <a href="https://cementeriogeneral.cl/" class="btn btn-primary">Más información</a>
+              </div>
+            </div>
+          </div>
+      
+          <div class="col-6 col-md-4">
+            <div class="card mb-4">
+              <img src="{% static './museoLaMemoria.jpg'%}" class="card-img-top" alt="Museo de la Memoria y los Derechos Humanos">
+              <div class="card-body">
+                <h5 class="card-title">Museo de la Memoria y los Derechos Humanos</h5>
+                <p class="card-text">Museo que aborda el período de la dictadura militar en Chile (1973-1990) y sus violaciones a los derechos humanos.</p>
+                <a href="https://mmdh.cl/" class="btn btn-primary">Más información</a>
+              </div>
+            </div>
+          </div>
+      
+          <div class="col-6 col-md-4">
+            <div class="card mb-4">
+              <img src="{% static './museoBellasArtes.jpg'%}" class="card-img-top" alt="Museo Nacional de Bellas Artes de Chile">
+              <div class="card-body">
+                <h5 class="card-title">Museo Nacional de Bellas Artes de Chile</h5>
+                <p class="card-text">Museo que alberga una de las colecciones de arte más importantes de América Latina, con obras de artistas chilenos e internacionales.</p>
+                <a href="https://www.mnba.gob.cl/" class="btn btn-primary">Más información</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+
+
+
+      
+  <!-- Site footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-6">
+          <h6></h6>
+          <p class="text-justify">Ven a conocer nuestra página web para tener una mejor experiencia en los distintos patrimonios culturales de la región metropolitana de Chile.</p>
+        </div>
+
+        <div class="col-xs-6 col-md-3">
+          <h6>Redes sociales</h6>
+          <ul class="footer-links">
+            <li><a href="https://web.whatsapp.com/">Whatsapp</a></li>
+            <li><a href="http://facebook.com">Facebook</a></li>
+            <li><a href="http://instagram.com">Instagram</a></li>
+          </ul>
+        </div>
+      </div>
+      <hr>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+          <p class="copyright-text">Copyright &copy; 2023 All Rights Reserved by 
+       <a href="#">Grupo 4</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+</footer>
+</body>
+</html>
